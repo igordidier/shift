@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221 316" width="214" height="306">
+	<title>human-svg</title>
+	<defs>
+		<image  width="69" height="102" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABmAQMAAACne87yAAAAAXNSR0IB2cksfwAAAAZQTFRFHyjPAAAAiHiTFAAAAAJ0Uk5TAP9bkSK1AAAA00lEQVR4nG3TUcqGIBCF4YkuuvmhJbQUl6ZLayktwUsvxPmEnHMaf4PgAZl8oxQRveW9Ds1Dl5ahoHVItb3YVNUGTGdXGqP/FbreTaLTMx68Vl6oYJaq2INqKFhJ0fxRsjeatatFUxtSqWV+dCoIpCqyZp2Ipg5EU7tPTci6vcTrmb4DU8NCF6JPp4oYqiFr1oZoShD9UVz8PF4PsqiMrIwYqiCGqoihGrKG4lcjOjglJFA3YmYdiKZ2p4yYjBgqWcyo6rKTG2xRgh1cuTJki/LX7x9x/YqDHPaM0AAAAABJRU5ErkJggg=="/>
+		<image  width="160" height="123" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAB7AQMAAADJ+BmCAAAAAXNSR0IB2cksfwAAAAZQTFRFK0T/AAAAu3q0QgAAAAJ0Uk5TAP9bkSK1AAAAzklEQVR4nNXUwQ2EIBAF0DEePFoCpVAalkYplsDRA3FW11VG5h9wTRaX4wsfSPgZIrFa3pY0cgAta+xYY8MALcAUTijCCUWYZxA+kAFagC0DdAANa8zCG7ocI1Gf24pq44KNsgXVNSvqI3nCaBBajQGju4MjRm3si3EoRirFGWEsxglhQDgi9KgLA8C9Xl42Iu4oAyFh+n8v8HgHnXCrwJThu5ZDjqcRUYb2T9BUxzHH/nnYPQ/b+xi+x6YqUl10n7lRB21VNFcw/gT7O/gCcog3OAabkxgAAAAASUVORK5CYII="/>
+		<image  width="54" height="34" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAiAQMAAAAuzLgTAAAAAXNSR0IB2cksfwAAAAZQTFRFICai/gBrbhJR2QAAAAJ0Uk5TAP9bkSK1AAAAZ0lEQVR4nEXPsQ3AIAwEQCMXKRmBUTIajJZRGIGSIopj/E9Cc9LzRli0SRy94DHoDbNtUSg26ROehgt30giqa1tPAuufyEf012ihmSpNVLaVFpqp0oR3URyCYl8b0WT/lxtWwyri4y8AgYeqSp8iywAAAABJRU5ErkJggg=="/>
+		<image  width="147" height="135" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACHAQMAAAAobPnbAAAAAXNSR0IB2cksfwAAAAZQTFRFHyjP/gBr7UJ1HgAAAAJ0Uk5TAP9bkSK1AAABIElEQVR4nM3WQa6DIBAG4CFdsPQIXKEnKEeDo3kUjsDShZFXK6IzDAKvfS+dFfmiyfgPRABSyRCCBVyrjY3mGPPEhoJNjTY32kJMPS28Y7ZuOuTBFM01GgnL9NhUt5VogF2GgxZFC1W7lc3WTJZt/I0NZXM1U32GBqcrdmfsge01YBM7N2fzue1xY9vaDIeJfabYtnyIzZDG+1rfYpCZLdhkXMnMjirZ0Gjqw6aJLR1mGiy8Y5Y3SuxzY7spai6f0WqCmmea9kzQHtKZTzWdNh4yzRjpZob85Rnyl7cdLxnDbS/oOMfaTDCGH9wP+dnsjoYx0W/jF5n7T4O/s/RtpyF9xnSjqWT20oZGOzY6XJpgLAaD//s6J/Zq9kwhXix+AIe5RfzoDPUXAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #b28b67 } 
+		.s1 { fill: #191847 } 
+		.s2 { fill: #c5cfd6 } 
+		.s3 { opacity: .1;fill: #000000 } 
+		.s4 { fill: #e4e4e4 } 
+		.s5 { fill: #997659 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m154.2 83.5h-22.4l3.8-26.8c-6 3.7-11.9 5.4-14.7 4.7-7-1.8-7.6-27.3-2.2-37.3 5.4-10.1 33.1-14.4 34.5 5.5 0.5 6.9-2.4 13-6.7 18.1z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m169.4 26.5c1.7 3.1-0.7 6.5-3.2 8 4.6 4-3.7 9.6-7.1 9.8 0.6 2.5-2.3 3.3-3.9 4 1 1.2 1.4 3.1 0.2 4.3-1.4 1.4-3.7 1.5-5.1 0.4-0.4-0.2-0.5-0.6-0.8-0.9-0.2-0.2-0.6-0.2-0.9-0.3-0.8-0.3-1.3-1.2-1.6-1.9-0.8-1.6-1.1-3.5-2.3-4.7 1.6-0.7 3.5-1.3 4.5-2.9 1.8-2.7-0.2-6.4-3-7.2-2.5-0.6-5.3 0.8-6.9 2.9-0.6-1.5-1.4-2.9-2.4-4-0.6-0.7-1.7-1.7-0.3-2.1 3.3-0.9 6.7-1.2 10-1.9-3.4 0-6.8 0.3-10.2 0-1.1-0.1-2.2-0.3-2.7-1.4-0.6-1.4-1.1-3.1-1.1-4.7-1.2 0.4-2.3 1-3.5 1-0.5 0-0.9-0.1-1.4-0.1-0.5 0-0.9 0.2-1.3 0.5-1.5 1.5-3.4 2.4-5.4 2.9-1.1 0.2-2.4 0.5-3.6 0.4-0.1 0-0.3-0.1-0.4-0.1-0.2-0.1-0.7 0.1-1 0.1-0.8 0-1.6-0.1-2.3-0.7-1.5-1.3-1-3.5 0.7-4.3-1.5-1.1-2.8-2.3-3.9-3.8-0.6-0.7-1.1-1.4-1.5-2.2-0.2-0.4-0.5-1.1-0.4-1.6 0.4-1.6 3.6-0.6 4.5-0.2 0-0.4 0.1-0.6 0-1.1 0-0.3-0.1-0.7 0.1-1 0.2-0.5 0.7-0.9 1.1-1.1 0.7-0.3 1.4-0.4 2-0.4 0.4 0 1.2 0.2 1.3-0.2 0.2-0.3 0-0.9-0.1-1.3q-0.1-0.9-0.2-1.8-0.1-1.2-0.2-2.4c0-0.6-0.1-1.3 0-1.8 0.3-1.6 2-1.7 3.2-1.4q1.2 0.3 2.3 1c0.5 0.4 0.9 0.8 1.4 1.1 0.4 0.3 0.6 0.6 1 0.3 0.8-0.5 1.3-1.8 1.9-2.6 0.7-0.9 1.7-1.6 2.7-2 2.2-0.8 4.7-0.3 6.7 1.2q0.6 0.4 1.2 1c0.3 0.4 0.5 0.7 1 0.6 0.4-0.1 0.8-0.4 1.2-0.7q0.6-0.4 1.3-0.8c1.9-1 3.9-1.5 5.9-1.2 2 0.3 3.8 1.3 4.9 3.2 1.1 1.9 1.5 4.3 1.6 6.5 1-0.4 1.9-1.1 2.9-1.4 1.1-0.4 2.2-0.5 3.3-0.5 1.7 0.2 3.5 0.7 4.7 2.1 1.5 1.6 1.5 4 1 6.1-0.2 1-0.6 2-0.9 3-0.4 1-0.8 2-1.5 2.7 2.4 0.2 5.3 1.2 6.5 3.6z"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m220.2 315.1h-107l9.5-115.4h71.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m220.2 315.1h-61l13.2-115.4h22.1z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m61.7 180.4c3.6 5.9 12.3 22.6 21.5 42.2q8 17.1 20.7 58.7l-10.7 4.9q-29.6-47.6-43.8-73.1c0.8 6.6 1.5 14 2.3 21.8 1.7 18.8 0 59.5-1 71.3-0.6 7.4-10.6 5.9-11.5 0-1-5.9-18.9-98.6-19-118.3 0-6.6 12.9-12.5 20.5-7.9 5.3-5.6 15.3-8.9 21 0.4z"/>
+	<use id="Layer" href="#img1" x="35" y="173"/>
+	<path id="Layer" fill-rule="evenodd" class="s4" d="m105.1 275.8q3.5 2.8 4.5 4.6 1.3 2.2 3 6.8-2.6 1.4-45.5 26.2-5.1-4.8-1.6-7.5 3.6-2.7 5.9-4.5l15.7-21.6c0.3-0.4 0.8-0.5 1.3-0.2q0 0 0 0l3.2 2.5q4.5-0.4 6.7-1.6 1.8-1.1 4.1-4.4c0.6-0.8 1.8-1 2.6-0.4q0.1 0 0.1 0.1z"/>
+	<path id="Layer" fill-rule="evenodd" class="s4" d="m53.1 301.5q1.5 4.2 1.5 6.2 0 2.5-0.8 7.4-2.9 0-52.4 0-2.1-6.8 2.3-7.3 4.4-0.6 7.3-1l24.4-10.9c0.5-0.2 1 0 1.2 0.5q0 0 0.1 0l1.5 3.8q4.1 1.9 6.6 1.9 2.1 0 5.8-1.6c0.9-0.5 2-0.1 2.4 0.9q0.1 0 0.1 0.1z"/>
+	<use id="Layer" href="#img2" x="17" y="160"/>
+	<path id="Layer" fill-rule="evenodd" class="s5" d="m100.7 115.5l-23.4-21.4q-18.6-5.2-17-7.5c1.6-2.4 4.9-0.4 6.2-1.8 1.4-1.4-1.2-6.4-3.8-11-2.6-4.7 0.2-4.3 1.8-3.6q7.8 5.3 15.9 14.9l32.2 17.6zm-39.4 16.4q-9.2-6.6-17.1-8.8c-10.1-2.8-14.1-5-19.1-11.3-2.6-3.3-4.8-10.1-2.3-12.3 1.7-1.5 11.5 5.9 15.5 6.7 4.1 0.8 0.4-8.7 2.5-7.8q4.1 0.1 7.1 11.5l14.2 7.8z"/>
+	<use id="Layer" href="#img3" x="79" y="86"/>
+	<use id="Layer" href="#img4" x="42" y="63"/>
+</svg>
