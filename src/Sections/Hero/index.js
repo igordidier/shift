@@ -198,10 +198,7 @@ const HeroSection = () => {
 
       <MainContent id="home">
         <Lb id="leftBlock">
-          <Topic>
-            <Circle />
-            <span>Création de site</span>
-          </Topic>
+          
           <Title>Shift Agency </Title>
           <SubText>
             Agence de création de site web innovant et moderne pour tout type d'entreprise

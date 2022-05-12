@@ -84,7 +84,7 @@ const Testimonials = () => {
       <Carousal>
         <Slider {...settings}>
         <Card
-          text="VARIO architecture est une petite agence située dans la Chartreuse à Sarcenas, Ce site Est crée avec un CMS pour pouvoir avoir une autonomie sur leur projet"
+          text="VARIO architecture est une  agence d'architecture, Ce site Est crée avec un CMS pour pouvoir avoir une autonomie sur leur projet"
           name="Vario Architecture"
           image="avatar-1"
           ulr="http://vario-architecture.fr/"
