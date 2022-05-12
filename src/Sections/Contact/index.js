@@ -136,7 +136,7 @@ const Contact = () => {
         </a>
 
       </Icons>
-      <Form>
+      <Form action="https://submit-form.com/d5B8LPL8">
         <Row>
           <input name="name" type="text" placeholder="Nom Prenon" />
           <input
@@ -154,9 +154,7 @@ const Contact = () => {
         ></textarea>
         <div style={{ margin: "0 auto" }}>
           <button
-            onClick={(e) => {
-              e.preventDefault();
-            }}
+            type="submit"
           >
             Envoiyer
           </button>
